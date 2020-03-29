@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Maps</string>
+
+    <string name="text_casos">Casos - </string>
+    <string name="text_mortes">Mortes - </string>
+    <string name="text_mortesToday">Mortes Hoje - </string>
+    <string name="text_recovered">Recuperados - </string>
+    <string name="text_critical">Em estado grave - </string>
+    <string name="text_p_million">Casos Por milhão - </string>
+    <string name="text_p_casosToday">Casos Hoje - </string>
+    <string name="text_p_Active">Casos Ativos - </string>
+
+    <string name="title_activity_maps">Map</string>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="default_margin">16dp</dimen>
+    <dimen name="drawable_padding">24dp</dimen>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="normal_padding">16dp</dimen>
+    <dimen name="margin_8dp">8dp</dimen>
+    <dimen name="margin_16dp">16dp</dimen>
+    <dimen name="card_elevation_2_5dp">2.5dp</dimen>
+
+</resources>
+
