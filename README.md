@@ -11,4 +11,4 @@ Telas do app.
 
 
 ## API UTILIZADA
-https://corona.lmao.ninja/countries/
+https://corona.lmao.ninja/v3/covid-19/countries
